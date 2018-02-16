@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapApplication</string>
+    <string name="key_latitude">lat</string>
+    <string name="key_longitude">lng</string>
+    <string name="key_title">title</string>
+    <string name="key_snippet">snippet</string>
+    <string name="alert_json_failed">Problem reading list of markers.</string>
+</resources>
